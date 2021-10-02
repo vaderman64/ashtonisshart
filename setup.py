@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='ashtonisshart',
+    name='AshtonsShitterPC',
     version='',
     packages=[''],
     url='',
